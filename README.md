@@ -6,4 +6,4 @@ Repositorio para la etapa de frontend (En las carpetas estan todos la mayoría d
 - [Buyer persona](https://github.com/avexyk/frontendlx/tree/master/1-practica-requerimientos/buyerpersona) (**Hubspot** - Use su herramienta en línea para generarlo)
 - [Público objetivo](https://github.com/avexyk/frontendlx/tree/master/1-practica-requerimientos/publico-objetivo) (**Inkscape** - Use este editor vectorial para crear mi template)
 - [Wireframe](https://github.com/avexyk/frontendlx/tree/master/1-practica-requerimientos/wireframe) (**Pencil Project** - Use este software para realizar esta actividad)
-- [Wireframe](https://github.com/avexyk/frontendlx/tree/master/1-practica-requerimientos/ui) (**Pencil Project** - Use este software para realizar esta actividad)
+- [UI](https://github.com/avexyk/frontendlx/tree/master/1-practica-requerimientos/ui) (**Pencil Project** - Use este software para realizar esta actividad)
